@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project-specific entries
+vit_lora_regression.pth
+github.ipynb
+preprocessed_train/
+preprocessed_test/
+Training/
+preprocessed_validation/
+Finetuning
