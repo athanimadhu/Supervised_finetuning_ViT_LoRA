@@ -31,6 +31,16 @@ The images were obtained from simulations of filaments from my PhD research. The
 
 M. G. Athani and D. A. Beller, "Symmetry and stability of orientationally ordered collective motions of self-propelled, semiflexible filaments," Phys. Rev. Res. 6, 023319 (2024). [DOI: 10.1103/PhysRevResearch.6.023319](https://doi.org/10.1103/PhysRevResearch.6.023319)
 
+<figure>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="Training_sample/Lx150_BD0333_C1_nematic_00885000.png"  width="200">
+    <img src="Training_sample/Lx100_BD07_C2_nematic_00480000.png"  width="200">
+    <img src="Training_sample/Lx50_BD07_C0_nematic_01425000.png"  width="200">
+  </div>
+  <figcaption>Figure: Three sample images showing overlapping filaments with varying densities and orientations.</figcaption>
+</figure>
+
+
 ### Dataset Details
 - **Total number of images**: 3360
   - Training: 2352 images
