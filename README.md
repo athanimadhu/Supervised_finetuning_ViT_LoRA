@@ -74,13 +74,16 @@ Training, validation, and evaluation are supported by the scripts provided.
 - **Best Test Loss**: 0.002724
 - **Error Margin**: ±43 filaments
 
-## Future Enhancements
-- Extend support to other pre-trained models (e.g., Swin Transformers).
+## Future Enhancements in techniques
 - Explore additional PEFT techniques.
 - Automate hyperparameter tuning.
 
+## Future research direction and questions
+- Now that we have been able to find the number of filaments in simulations, we want to explore if the model can be used on experimental data where finding the surface density of filaments is very important for research questions.
+- The next bigger question relavent for reseach is to find the number of overlapping events in the images.
+
 ## Acknowledgments
-This project builds on research conducted during my PhD studies. Special thanks to collaborators and the open-source community for their valuable contributions.
+This project builds on research conducted during my PhD studies. Special thanks to all my collaborators.
 
 ## Contact
 For questions or access to the full `Training/` folder, reach out via:
