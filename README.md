@@ -34,10 +34,11 @@ M. G. Athani and D. A. Beller, "Symmetry and stability of orientationally ordere
 <figure>
   <div style="display: flex; justify-content: space-around;">
     <img src="Training_sample/Lx150_BD0333_C1_nematic_00885000.png"  width="200">
-    <img src="Training_sample/Lx100_BD07_C2_nematic_00480000.png"  width="200">
-    <img src="Training_sample/Lx50_BD07_C0_nematic_01425000.png"  width="200">
+    <img src="Training_sample/Lx50_BD01_C1_nematic_13575000.png"  width="200">
+    <img src="Training_sample/Lx150_BD0253_C0_nematic_00120000.png"  width="200">
+    <img src="Training_sample/Lx100_BD07_C2_nematic_00480000.png"  width="200">  
   </div>
-  <figcaption>Figure: Three sample images showing overlapping filaments with varying densities and orientations.</figcaption>
+  <figcaption>Figures: Sample images showing overlapping filaments with varying densities and orientations.</figcaption>
 </figure>
 
 
