@@ -84,6 +84,7 @@ Training, validation, and evaluation are supported by the scripts provided.
 ## Results
 - **Best Test Loss**: 0.002724
 - **Error Margin**: ±43 filaments
+- **Mean absolute percentage error**: ~20%
 
 ## Future Enhancements in techniques
 - Explore additional PEFT techniques.
