@@ -27,7 +27,7 @@ The project uses custom datasets structured into training, testing, and validati
 > **Note**: The full `Training/` folder containing all images has not been included in this repository due to its large size. If you need access to the full dataset, please contact me, and I can provide it upon request.
 
 ## Understanding the Data
-The images were obtained from simulations of filaments from my PhD research. These filaments represent microtubules in an in-vitro gliding assay. For reference on what these images mean, please see my paper:
+The images were obtained from snapshots of simulations of filaments from my PhD research. These filaments represent microtubules in an in-vitro gliding assay. There is periodic boundary conditon in the simulations in both x and y dimensions. For reference on what these images mean, please see my paper:
 
 M. G. Athani and D. A. Beller, "Symmetry and stability of orientationally ordered collective motions of self-propelled, semiflexible filaments," Phys. Rev. Res. 6, 023319 (2024). [DOI: 10.1103/PhysRevResearch.6.023319](https://doi.org/10.1103/PhysRevResearch.6.023319)
 
